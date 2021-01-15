@@ -24,12 +24,12 @@
     <a>
         <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>&nbsp
-    <a>
-        <img src="https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>&nbsp
 </div>
 
 <div>
+     <a>
+        <img src="https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>&nbsp
     <a>
         <img src="https://img.shields.io/badge/-Spring-%236DB33F?style=flat-square&logo=spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>&nbsp
