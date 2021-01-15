@@ -82,15 +82,6 @@
     <a href="mailto:pjeeyeon27@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>&nbsp
-    <a>
-        <img src="https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jQuery&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>&nbsp
-    <a>
-        <img src="https://img.shields.io/badge/-Bootstrap-%237952B3?style=flat-square&logo=Bootstrap&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>&nbsp
-    <a>
-        <img src="https://img.shields.io/badge/-Mybatis-lightgrey?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>&nbsp
 </div>
 
 
