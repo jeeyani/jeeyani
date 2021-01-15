@@ -79,8 +79,8 @@
 
 #### 💬 Contact
 <div>
-    <a>
-        <img src="https://img.shields.io/badge/-Spring-%236DB33F?style=flat-square&logo=spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <a href="mailto:pjeeyeon27@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>&nbsp
     <a>
         <img src="https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jQuery&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
