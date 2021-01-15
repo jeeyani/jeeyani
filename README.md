@@ -1,4 +1,7 @@
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=#7401DF&height=800&section=header&text=yani%20render&fontSize=90)
+
+
 #### 💁 My Info.
 
 #### 💻 Tech Stack
