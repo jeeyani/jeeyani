@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=#7401DF&height=800&section=header&text=yani%20render&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?)
 
 #### 💁 My Info.
 
@@ -54,5 +53,4 @@
 - ⚡ Fun fact: ...
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=#7401DFsection=footer)
 
