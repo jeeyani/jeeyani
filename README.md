@@ -54,5 +54,5 @@
 - ⚡ Fun fact: ...
 
 
-
+![footer](https://capsule-render.vercel.app/api?type=slice&color=#7401DFsection=footer)
 
