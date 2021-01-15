@@ -4,10 +4,10 @@
 
 #### 💁 My Info.
 
-  >> 개발자를 꿈꾸는 취준생
-  >> 20.09 - 20.12 Korea Software Industry Association, Java Developer Training 
-  >> 18.03 - 21.02 Inha University, Geoinformatic Engineering
-  >> 18.03 - 18.12 Inha University, Debug Club
+   - 개발자를 꿈꾸는 취준생
+   - 20.09 - 20.12 Korea Software Industry Association, Java Developer Training 
+   - 18.03 - 21.02 Inha University, Geoinformatic Engineering
+   - 18.03 - 18.12 Inha University, Debug Club
 
 
 </br>
