@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**jeeyani/jeeyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 💁 My Info.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+#### 💻 Tech Stack
+<div>
+<a>
+    <img src="https://img.shields.io/badge/-JAVA-%23007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a>
+    <img src="https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat-square&logo=C++&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a>
+    <img src="https://img.shields.io/badge/-JAVA-%23007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+</div>
+
+
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
