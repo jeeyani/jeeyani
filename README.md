@@ -1,7 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&height=10)
+<p align="center">
+    <h3> 💁 My Info. </h3>
+</p>
 
-#### 💁 My Info.
+
 
 #### 💻 Tech Stack
 <div>
@@ -52,5 +55,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+</
 ![footer](https://capsule-render.vercel.app/api?type=Cylinder&height=10)
