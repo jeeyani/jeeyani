@@ -41,6 +41,9 @@
     <a>
         <img src="https://img.shields.io/badge/-Mybatis-lightgrey?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>&nbsp
+     <a>
+        <img src="https://img.shields.io/badge/-Apache%20Tomcat-%23F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>&nbsp
 </div>
 </br>
 
@@ -62,16 +65,19 @@
 #### 🔨 Use Tool
 <div>
     <a>
-        <img src="https://img.shields.io/badge/-Eclipse-%232C2255?style=flat-square&logo=eclipseide&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        <img src="https://img.shields.io/badge/-Eclipse-%232C2255?style=flat-square&logo=eclipse%20ide&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>&nbsp
     <a>
-        <img src="https://img.shields.io/badge/-AndroidStudio-%233DDC84?style=flat-square&logo=AndroidStudio&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        <img src="https://img.shields.io/badge/-AndroidStudio-%233DDC84?style=flat-square&logo=Android%20Studio&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>&nbsp
     <a>
-        <img src="https://img.shields.io/badge/-Bootstrap-%237952B3?style=flat-square&logo=Bootstrap&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        <img src="https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>&nbsp
     <a>
-        <img src="https://img.shields.io/badge/-Mybatis-lightgrey?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        <img src="https://img.shields.io/badge/-Qgis-%23589632?style=flat-square&logo=Qgis&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>&nbsp
+    <a>
+        <img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?style=flat-square&logo=adobe%20Photoshop&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>&nbsp
 </div>
 </br>
