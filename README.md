@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=#89ca76&height=10&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=89ca76&height=10&section=header)
 
 
 
@@ -82,5 +82,7 @@
         <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>&nbsp
 </div>
+</br>
 
+![footer](https://capsule-render.vercel.app/api?type=Cylinder&color=89ca76&height=10&section=footer)
 
