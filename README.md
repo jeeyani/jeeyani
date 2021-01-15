@@ -62,10 +62,10 @@
 #### 🔨 Use Tool
 <div>
     <a>
-        <img src="https://img.shields.io/badge/-Spring-%236DB33F?style=flat-square&logo=spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        <img src="https://img.shields.io/badge/-Eclipse-%232C2255?style=flat-square&logo=eclipseide&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>&nbsp
     <a>
-        <img src="https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jQuery&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        <img src="https://img.shields.io/badge/-AndroidStudio-%233DDC84?style=flat-square&logo=AndroidStudio&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>&nbsp
     <a>
         <img src="https://img.shields.io/badge/-Bootstrap-%237952B3?style=flat-square&logo=Bootstrap&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
