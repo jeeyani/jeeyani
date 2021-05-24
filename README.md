@@ -4,7 +4,7 @@
 
 #### 💁 My Info.
 
-   - 개발자를 꿈꾸는 취준생
+   - 21.05 -       MetanetDT, developer
    - 21.01 - 21.05 MetanetDT, Inter
    - 20.09 - 20.12 Korea Software Industry Association, Java Developer Training 
    - 18.03 - 21.02 Inha University, Geoinformatic Engineering
