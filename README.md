@@ -4,8 +4,8 @@
 
 #### 💁 My Info.
 
-   - 21.05 ~       MetanetDT, developer
-   - 21.01 - 21.05 MetanetDT, Inter
+   - 21.05 ~       Metanet Digital, Back-end developer
+   - 21.01 - 21.05 Metanet Digital, Inter
    - 20.09 - 20.12 Korea Software Industry Association, Java Developer Training 
    - 18.03 - 21.02 Inha University, Geoinformatic Engineering
    - 18.03 - 18.12 Inha University, Debug Club
