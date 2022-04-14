@@ -4,7 +4,8 @@
 
 #### 💁 My Info.
 
-   - 21.05 ~       Metanet Digital, Back-end developer
+   - 22.04 ~ hyundai-it&e
+   - 21.05 - 22.04 Metanet Digital, Back-end developer
    - 21.01 - 21.05 Metanet Digital, Inter
    - 20.09 - 20.12 Korea Software Industry Association, Java Developer Training 
    - 18.03 - 21.02 Inha University, Geoinformatic Engineering
