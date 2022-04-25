@@ -90,7 +90,7 @@
 #### 💻 Study CS
 <div>
    <a href="https://silicon-sugar-748.notion.site/MDT-CS-601c3ad74d1f40abb73304ea3e282f04">
-      <img src="https://img.shields.io/badge/-Notion-%000000?style=for-the-badge&logo=Notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
+      <img src="https://img.shields.io/badge/Notion.svg?style=for-the-badge&logo=Notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
    </a>&nbsp
 </div>
 </br>                                                                                                
