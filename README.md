@@ -92,6 +92,8 @@
    <a href="https://silicon-sugar-748.notion.site/MDT-CS-601c3ad74d1f40abb73304ea3e282f04">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
    </a>&nbsp
+   - 운영체제, 네트워크, 데이터베이스 등 기초적인 전산학에 대한 학습을 진행 
+   - 22.04 웹 프로젝트 기획 중
 </div>
 </br>                                                                                                
                                                                                                       
