@@ -4,7 +4,7 @@
 
 #### 💁 My Info.
 
-   - 22.04 ~ hyundai-it&e
+   - 22.04 ~ hyundai-it&e, Hmall Back-end developer
    - 21.05 - 22.04 Metanet Digital, Back-end developer
    - 21.01 - 21.05 Metanet Digital, Inter
    - 20.09 - 20.12 Korea Software Industry Association, Java Developer Training 
